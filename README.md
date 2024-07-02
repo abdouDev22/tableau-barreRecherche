@@ -10,6 +10,7 @@ Interactivité : Utilisation de JavaScript pour mettre à jour le tableau en tem
 HTML5 : Structure de la page et du tableau.<br />
 CSS3 : Styles et mise en page.<br />
 JavaScript : Gestion de la logique de recherche et mise à jour dynamique du tableau.<br />
+Vitejs <br />
 # Comment utiliser ce projet
 Clonez ce dépôt : git clone https://github.com/ton-utilisateur/tableau&barreRecherche.git<br />
 Ouvrez le fichier index.html dans votre navigateur web préféré.<br />
